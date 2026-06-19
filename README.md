@@ -45,7 +45,7 @@ CREATE TABLE tasks (
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-abhiram624/todolist.git
+git clone https://github.com/abhiram624/todolist.git
 
 2. Open project in VS Code
 
